@@ -37,7 +37,7 @@ Este es un programa desarrollado en **Solana** utilizando el framework **Anchor*
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+   git clone https://github.com/Edahi98/ProyectoCertificacion.git
    ```
 2. Abrir en Solana Playground:
 
